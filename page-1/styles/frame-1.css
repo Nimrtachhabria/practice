@@ -1,0 +1,604 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 145rem;
+}.frame-1-Gdf {
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.frame-1-Gdf .landing-page-Uzd {
+  width: 144rem;
+  height: 91.3rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-1-Gdf .landing-page-Uzd .pexels-klaus-nielsen-6287295-1-xYR {
+  width: 144.2rem;
+  height: 96rem;
+  position: absolute;
+  left: 0;
+  top: -4.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-Gdf .landing-page-Uzd .auto-group-wmjd-EF3 {
+  width: 144rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: -1.6rem;
+}
+.frame-1-Gdf .landing-page-Uzd .auto-group-wmjd-EF3 .rectangle-1-M4m {
+  width: 144rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 0;
+  top: 1.6rem;
+  background-color: #e89a00;
+}
+.frame-1-Gdf .landing-page-Uzd .auto-group-wmjd-EF3 .menu-sJ1 {
+  width: 4.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 85.9rem;
+  top: 3.7rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Rosario, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-Gdf .landing-page-Uzd .auto-group-wmjd-EF3 .about-us-8Dw {
+  width: 8rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 94.8rem;
+  top: 3.7rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Rosario, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-Gdf .landing-page-Uzd .auto-group-wmjd-EF3 .order-online-dRb {
+  width: 10.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 106.6rem;
+  top: 3.7rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Rosario, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-Gdf .landing-page-Uzd .auto-group-wmjd-EF3 .image-1-vfb {
+  width: 34.7rem;
+  height: 7.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-Gdf .landing-page-Uzd .auto-group-wmjd-EF3 .vector-Stq {
+  width: 3.9rem;
+  height: 3.1206rem;
+  position: absolute;
+  left: 129.9rem;
+  top: 2.8482rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-1-Gdf .landing-page-Uzd .auto-group-wmjd-EF3 .vector-BbX {
+  width: 4.6rem;
+  height: 3.0314rem;
+  position: absolute;
+  left: 121.1rem;
+  top: 2.9374rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-1-Gdf .landing-page-Uzd .auto-group-wmjd-EF3 .vector-vZ7 {
+  width: 3.4rem;
+  height: 3.0314rem;
+  position: absolute;
+  left: 138.5rem;
+  top: 2.9374rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-1-Gdf .landing-page-Uzd .indias-best-cookies-delicious-healthy-one-of-a-kind-rxZ {
+  width: 61.5rem;
+  height: 26.2rem;
+  position: absolute;
+  left: 42.6rem;
+  top: 38.7rem;
+  text-align: center;
+  font-size: 7.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Rosario, 'Source Sans Pro';
+}
+.frame-1-Gdf .landing-page-Uzd .group-1-Hny {
+  width: 25.9rem;
+  height: 9.3rem;
+  position: absolute;
+  left: 59rem;
+  top: 74.1rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.frame-1-Gdf .landing-page-Uzd .group-1-Hny .order-now-ECR {
+  width: 16.1rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 5.15rem;
+  top: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7599999905);
+  font-family: Rosario, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-Gdf .landing-page-Uzd .group-1-Hny .rectangle-2-6VX {
+  width: 25.9rem;
+  height: 9.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem rgba(0, 0, 0, 0.7699999809);
+  box-sizing: border-box;
+  backdrop-filter: blur(0.2rem);
+}
+.frame-1-Gdf .about-us-y3X {
+  margin-left: 1rem;
+  box-sizing: border-box;
+  padding-left: 6.4rem;
+  width: calc(100% - 1rem);
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-1-Gdf .about-us-y3X .auto-group-uskj-rND {
+  margin: 8.8rem 10.4rem 12.7rem 0rem;
+  width: 67.1rem;
+  height: calc(100% - 21.5rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-1-Gdf .about-us-y3X .auto-group-uskj-rND .vector-jwo {
+  width: 62.9rem;
+  height: 64.4rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 16.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-1-Gdf .about-us-y3X .auto-group-uskj-rND .vector-5Ey {
+  width: 64.3052rem;
+  height: 61.448rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-1-Gdf .about-us-y3X .auto-group-uskj-rND .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-integer-lacinia-magna-tincidunt-condimentum-sit-suscipit-pharetra-Qo3 {
+  width: 53.1rem;
+  height: 24.3rem;
+  position: absolute;
+  left: 9.9rem;
+  top: 19.25rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7699999809);
+  font-family: Rosario, 'Source Sans Pro';
+}
+.frame-1-Gdf .about-us-y3X .auto-group-uskj-rND .who-are-we-r9F {
+  width: 25.9rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 19.4rem;
+  top: 11.2rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7699999809);
+  font-family: Rosario, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-Gdf .about-us-y3X .auto-group-uskj-rND .vector-M61 {
+  width: 4.9rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 24.3rem;
+  top: 62.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-1-Gdf .about-us-y3X .auto-group-uskj-rND .wanna-know-more-find-us-here-tLq {
+  width: 54.4rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 9.9rem;
+  top: 54.7rem;
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.75);
+  font-family: Rosario, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-Gdf .about-us-y3X .auto-group-uskj-rND .vector-y7P {
+  width: 5.6rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 34.8rem;
+  top: 62.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-1-Gdf .about-us-y3X .image-6ho {
+  width: 60.1rem;
+  height: 102.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Gdf .menu-page-cg9 {
+  box-sizing: border-box;
+  padding: 7.3rem 0rem 4.6rem 0rem;
+  width: 144rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 1.1rem;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-1-Gdf .menu-page-cg9 .auto-group-zs8h-KqT {
+  margin-top: 12.5rem;
+  width: 80.9rem;
+  height: 72.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-1-Gdf .menu-page-cg9 .auto-group-zs8h-KqT .vector-fPX {
+  width: 63.6rem;
+  height: 72.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-1-Gdf .menu-page-cg9 .auto-group-zs8h-KqT .cupcake-9Zb {
+  box-sizing: border-box;
+  padding-bottom: 4.1rem;
+  width: 39.8rem;
+  height: 51.6rem;
+  position: absolute;
+  left: 41.1rem;
+  top: 10.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #c4c4c4;
+  background-color: #ffffff;
+}
+.frame-1-Gdf .menu-page-cg9 .auto-group-zs8h-KqT .cupcake-9Zb .photospastriesbluemuffin-1-dzZ {
+  margin-bottom: 1rem;
+  width: 39.8rem;
+  height: 38rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Gdf .menu-page-cg9 .auto-group-zs8h-KqT .cupcake-9Zb .raspberry-cupcake-60-per-piece-x1F {
+  margin-left: 0.4rem;
+  max-width: 27.9rem;
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7699999809);
+  font-family: Rosario, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-1-Gdf .menu-page-cg9 .auto-group-zs8h-KqT .group-3-2G1 {
+  width: 5.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 34.4rem;
+  top: 26.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-1-Gdf .menu-page-cg9 .auto-group-ew8z-wNy {
+  margin-bottom: 13.2rem;
+  width: 48.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-Gdf .menu-page-cg9 .auto-group-ew8z-wNy .what-is-in-plate-for-today-xJ5 {
+  margin: 0rem 0.1rem 0.5rem 0rem;
+  max-width: 47.7rem;
+  text-align: center;
+  font-size: 6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Rosario, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-1-Gdf .menu-page-cg9 .auto-group-ew8z-wNy .line-1-3KX {
+  margin-bottom: 10.2rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.frame-1-Gdf .menu-page-cg9 .auto-group-ew8z-wNy .tart-wfo {
+  margin: 0 4.5rem;
+  width: calc(100% - 9rem);
+  height: 51.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-1-Gdf .menu-page-cg9 .auto-group-ew8z-wNy .tart-wfo .rectangle-4-Uvd {
+  width: 39.8rem;
+  height: 51.6rem;
+  position: absolute;
+  left: 0;
+  top: 0.3rem;
+  border: solid 0.1rem #b1b1b1;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.frame-1-Gdf .menu-page-cg9 .auto-group-ew8z-wNy .tart-wfo .photospastriescrantart-1-ngR {
+  width: 39.8rem;
+  height: 38.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-Gdf .menu-page-cg9 .auto-group-ew8z-wNy .tart-wfo .cherry-tart-250--ia5 {
+  width: 16.9rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 39.3rem;
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Rosario, 'Source Sans Pro';
+}
+.frame-1-Gdf .menu-page-cg9 .auto-group-yckv-CVF {
+  margin-top: 14.9rem;
+  width: 93.6rem;
+  height: 75.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-1-Gdf .menu-page-cg9 .auto-group-yckv-CVF .vector-LLZ {
+  width: 80.2rem;
+  height: 75.6rem;
+  position: absolute;
+  left: 13.4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-1-Gdf .menu-page-cg9 .auto-group-yckv-CVF .choco-chip-SuP {
+  box-sizing: border-box;
+  padding-bottom: 4rem;
+  width: 39.8rem;
+  height: 51.6rem;
+  position: absolute;
+  left: 0;
+  top: 10.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #b1b1b1;
+  background-color: #ffffff;
+}
+.frame-1-Gdf .menu-page-cg9 .auto-group-yckv-CVF .choco-chip-SuP .bakery-baking-cookies-cooking-1-mAy {
+  margin-bottom: 1rem;
+  width: 39.8rem;
+  height: 38.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Gdf .menu-page-cg9 .auto-group-yckv-CVF .choco-chip-SuP .choco-chip-cookie-150-3-piece-6DF {
+  margin-left: 0.3rem;
+  max-width: 27rem;
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Rosario, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-1-Gdf .menu-page-cg9 .auto-group-yckv-CVF .group-4-BEh {
+  width: 5.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 41rem;
+  top: 28.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-1-Gdf .contact-us--gSM {
+  margin-right: 0.8rem;
+  width: 144.2rem;
+  height: 60.4rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-1-Gdf .contact-us--gSM .wp3072528-1-b3X {
+  width: 143.2rem;
+  height: 60.4rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-Gdf .contact-us--gSM .home-WwB {
+  width: 37rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 83.2rem;
+  top: 12.3rem;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Rosario, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-Gdf .contact-us--gSM .blog-dF7 {
+  width: 7.6rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 120.9rem;
+  top: 13.6rem;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Rosario, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-Gdf .contact-us--gSM .contact-us-8xZ {
+  width: 18.1rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 83.2rem;
+  top: 23rem;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Rosario, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-Gdf .contact-us--gSM .about-us-FnH {
+  width: 15.3rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 120.9rem;
+  top: 22.4rem;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Rosario, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-Gdf .contact-us--gSM .terms-and-conditions-kU9 {
+  width: 36.3rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 83.2rem;
+  top: 33rem;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Rosario, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-Gdf .contact-us--gSM .copyrights-reserved-2022-tyf {
+  width: 44.2rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 51.3rem;
+  top: 53.7rem;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #f28200;
+  font-family: Rosario, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-Gdf .contact-us--gSM .vector-CjT {
+  width: 7.25rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 119.7257rem;
+  top: 43.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-1-Gdf .contact-us--gSM .vector-jUV {
+  width: 5.941rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 102.2049rem;
+  top: 43.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-1-Gdf .contact-us--gSM .vector-fd3 {
+  width: 5.7396rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 87.1007rem;
+  top: 43.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-1-Gdf .contact-us--gSM .line-4-bWh {
+  width: 144.2rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 52.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
